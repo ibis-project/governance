@@ -11,7 +11,7 @@ A major point in that model is:
 > the people who do the most work are recognized as most influential, but this
 > is based on current work and not historic contributions.
 
-The next, and perhaps equally important point is:
+Another important point from that model is:
 
 > Major project decisions are made based on a consensus seeking process
 > (discuss major grievances) rather than pure vote, and strive to include as
