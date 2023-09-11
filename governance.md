@@ -2,7 +2,7 @@
 
 Ibis's governance is inspired by many open source projects that have come
 before it, including but not limited to Apache Arrow, Substrait, Dask and
-many others.
+others.
 
 The closest concrete model to Ibis's governance is the [**liberal contribution** model](https://opensource.guide/leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects).
 
@@ -58,7 +58,7 @@ Committers are responsible for things like:
 
 - Code review
 - Ensuring that CI remains green
-- Helping on board contributors
+- Helping on-board contributors
 - Maintaining existing code
 
 Committers who have not made a commit to one or more repositories under the
