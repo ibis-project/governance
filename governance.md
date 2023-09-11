@@ -56,7 +56,7 @@ Committers are responsible for things like:
 - Helping on board contributors
 - Maintaining existing code
 
-Committers who have made a commit to one or more repositories under the
+Committers who have not made a commit to one or more repositories under the
 `ibis-project` organization for a period of one year or longer are subject to
 having their commit privileges removed.
 
