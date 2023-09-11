@@ -48,6 +48,9 @@ A committer is someone who has the ability to make commits to the project
 without the approval of other committers or steering committee members, which
 includes the ability to approve and merge pull requests.
 
+**Pull requests should have at least one approving committer, or a stated
+reason why a pull request bypassed approval**
+
 To become a committer, a person must show sustained activity for a period of at
 least six months and be nominated by a steering committee member.
 
@@ -72,3 +75,19 @@ committers, committee members are responsible for things like:
 - Code review
 - Handling security reports in a timely manner
 - Enforcing the code of conduct
+
+## Decision-making process
+
+### Location
+
+Major decisions should be made **in public** using [GitHub Discussions](https://github.com/ibis-project/ibis/discussions).
+
+### Seeking consensus
+
+Decision-making should be done by seeking consensus from as many community perspectives
+as possible.
+
+The community should be given at least one week to respond to a proposed decision.
+
+Large, sweeping decisions must include the support of at least two steering
+committee members.
