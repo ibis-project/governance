@@ -82,6 +82,8 @@ committers, committee members are responsible for things like:
 
 Major decisions should be made **in public** using [GitHub Discussions](https://github.com/ibis-project/ibis/discussions).
 
+Decisions around governance itself should be discussed in [`ibis-project/governance`'s discussions](https://github.com/ibis-project/governance).
+
 ### Seeking consensus
 
 Decision-making should be done by seeking consensus from as many community perspectives
