@@ -17,9 +17,11 @@ Another important point from that model is:
 > (discuss major grievances) rather than pure vote, and strive to include as
 > many community perspectives as possible.
 
-In addition to the people that work on the Ibis project, the project's
-artifacts are the code and documentation that reside in the collection of git
-repositories under the `ibis-project` GitHub organization.
+## Project artifacts
+
+The project artifacts are the code and documentation that reside in the
+collection of git repositories under the
+[`ibis-project`](https://github.com/ibis-project) GitHub organization.
 
 ## People
 
