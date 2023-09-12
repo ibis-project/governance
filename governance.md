@@ -66,6 +66,9 @@ Committers who have not made a commit to one or more repositories under the
 whether they are still interested in participating in the project and if not,
 may have their commit rights removed.
 
+Decision-making power leans towards those people who are currently active in
+the project.
+
 #### Becoming a committer
 
 To become a committer, a person must have sustained contributions to one or
