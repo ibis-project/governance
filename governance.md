@@ -58,12 +58,24 @@ Committers are responsible for things like:
 
 - Code review
 - Ensuring that CI remains green
-- Helping on-board contributors
+- Helping on-board new contributors
 - Maintaining existing code
 
 Committers who have not made a commit to one or more repositories under the
 `ibis-project` organization for a period of one year or longer are subject to
 having their commit privileges removed.
+
+#### Becoming a committer
+
+To become a committer, a person must have sustained contributions to one or
+more projects in the organization for at least **six months**.
+
+New committers must be nominated by a steering committee member.
+
+The minimum number of votes required to become a committer is
+**three**, and only steering committee members' votes are binding.
+
+Nominations should be made and discussed in a [GitHub Discussion](https://github.com/ibis-project/ibis/discussions).
 
 ### Steering committee members
 
@@ -71,10 +83,24 @@ A steering committee member is a committer that shows commitment to the
 long-term health of the Ibis project. In addition to the responsibilities of
 committers, committee members are responsible for things like:
 
-- Nominating others for steering committee membership status
-- Code review
+- Nominating others for committership and steering committee membership
 - Handling security reports in a timely manner
 - Enforcing the code of conduct
+
+#### Becoming a steering committee member
+
+Steering committee members must already be committers.
+
+Additionally, steering committee members must have been a committer for at
+least six months in addition to the six months required to become a committer
+and show commitment to long-term health of the project.
+
+New steering committee members must be nominated by another steering committee member.
+
+The minimum number of votes required to become a steering committee member is
+**three**, and only steering committee members' votes are binding.
+
+Nominations should be made and discussed in a [GitHub Discussion](https://github.com/ibis-project/ibis/discussions).
 
 ## Decision-making process
 
@@ -82,7 +108,7 @@ committers, committee members are responsible for things like:
 
 Major decisions should be made **in public** using [GitHub Discussions](https://github.com/ibis-project/ibis/discussions).
 
-Decisions around governance itself should be discussed in [`ibis-project/governance`'s discussions](https://github.com/ibis-project/governance).
+Decisions around governance itself should be discussed in [`ibis-project/governance`'s discussions](https://github.com/ibis-project/governance/discussions).
 
 ### Seeking consensus
 
