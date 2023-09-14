@@ -51,8 +51,6 @@ includes the ability to approve and merge pull requests.
 **Pull requests should have at least one approving committer, or a stated
 reason why a pull request bypassed approval**
 
-To become a committer, a person must show sustained activity for a period of at
-least six months and be nominated by a steering committee member.
 
 Committers are responsible for things like:
 
