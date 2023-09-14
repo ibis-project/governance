@@ -74,10 +74,8 @@ the project.
 To become a committer, a person must have sustained contributions to one or
 more projects in the organization for at least **six months**.
 
-New committers must be nominated by a steering committee member.
-
-The minimum number of votes required to become a committer is
-**three**, and only steering committee members' votes are binding.
+Candidates are nominated by a steering committee member, and must
+have approval from at least 2 other steering committee members.
 
 Nominations should be made and discussed in a [GitHub Discussion](https://github.com/ibis-project/ibis/discussions).
 
