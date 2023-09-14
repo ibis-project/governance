@@ -48,8 +48,9 @@ A committer is someone who has the ability to make commits to the project
 without the approval of other committers or steering committee members, which
 includes the ability to approve and merge pull requests.
 
-**Pull requests should have at least one approving committer, or a stated
-reason why a pull request bypassed approval**
+**Pull requests should have at least one approving committer that isn't the
+person who created the PR, or a stated reason why a pull request bypassed
+approval.**
 
 
 Committers are responsible for things like:
