@@ -52,7 +52,6 @@ includes the ability to approve and merge pull requests.
 person who created the PR, or a stated reason why a pull request bypassed
 approval.**
 
-
 Committers are responsible for things like:
 
 - Code review
@@ -98,20 +97,24 @@ and show commitment to long-term health of the project.
 
 New steering committee members must be nominated by another steering committee member.
 
-The minimum number of votes required to become a steering committee member is
-**three**, and only steering committee members' votes are binding.
+Candidates are nominated by a steering committee member, and must
+have approval from at least 2 other steering committee members.
 
-Nominations should be made and discussed in a [GitHub Discussion](https://github.com/ibis-project/ibis/discussions).
+Nominations should be made and discussed in a [GitHub
+Discussion](https://github.com/ibis-project/governance/discussions).
 
 ## Decision-making process
 
 ### Location
 
-Major decisions should be made **in public** using [GitHub Discussions](https://github.com/ibis-project/ibis/discussions).
+Major technical decisions should be made **in public** using [GitHub
+Discussions](https://github.com/ibis-project/ibis/discussions).
 
 Decisions around governance itself should be discussed in
 [`ibis-project/governance`'s
 discussions](https://github.com/ibis-project/governance/discussions).
+
+When in doubt prefer https://github.com/ibis-project/ibis/discussions.
 
 ### Seeking consensus
 
