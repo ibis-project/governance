@@ -70,7 +70,8 @@ the project.
 #### Becoming a committer
 
 To become a committer, a person must have sustained contributions to one or
-more projects in the organization for at least **six months**.
+more projects in the organization. There is no explicit duration over which
+this must happen.
 
 Candidates are nominated by a steering committee member, and must
 have approval from at least 2 other steering committee members.
@@ -87,18 +88,23 @@ committers, committee members are responsible for things like:
 - Handling security reports in a timely manner
 - Enforcing the code of conduct
 
+The current steering committee members are:
+
+- Phillip Cloud (@cpcloud)
+- Krisztián Szűcs (@kszucs)
+- Jim Crist-Harif (@jcrist)
+- Gil Forsyth (@gforsyth)
+
 #### Becoming a steering committee member
 
 Steering committee members must already be committers.
 
 Additionally, steering committee members must have been a committer for at
-least six months in addition to the six months required to become a committer
-and show commitment to long-term health of the project.
+least six months after becoming a committer and show commitment to long-term
+health of the project.
 
-New steering committee members must be nominated by another steering committee member.
-
-Candidates are nominated by a steering committee member, and must
-have approval from at least 2 other steering committee members.
+Candidates are nominated by a steering committee member, and must have approval
+from at least 2 other steering committee members.
 
 Nominations should be made and discussed in a [GitHub
 Discussion](https://github.com/ibis-project/governance/discussions).
