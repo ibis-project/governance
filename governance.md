@@ -91,9 +91,9 @@ committers, committee members are responsible for things like:
 The current steering committee members are:
 
 - Phillip Cloud (@cpcloud)
-- Krisztián Szűcs (@kszucs)
 - Jim Crist-Harif (@jcrist)
 - Gil Forsyth (@gforsyth)
+- Krisztián Szűcs (@kszucs)
 
 #### Becoming a steering committee member
 
