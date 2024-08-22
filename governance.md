@@ -93,7 +93,7 @@ The current steering committee members are:
 - Phillip Cloud (@cpcloud)
 - Jim Crist-Harif (@jcrist)
 - Gil Forsyth (@gforsyth)
-- Tim Swast (@tswast)
+- Tim Sweña (@tswast)
 - Krisztián Szűcs (@kszucs)
 
 #### Becoming a steering committee member
