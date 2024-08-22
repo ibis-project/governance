@@ -76,7 +76,8 @@ this must happen.
 Candidates are nominated by a steering committee member, and must
 have approval from at least 2 other steering committee members.
 
-Nominations should be made and discussed in a [GitHub Discussion](https://github.com/ibis-project/ibis/discussions).
+Nominations should be made and discussed in a [GitHub
+Issue](https://github.com/ibis-project/governance/issues).
 
 ### Steering committee members
 
@@ -108,20 +109,26 @@ Candidates are nominated by a steering committee member, and must have approval
 from at least 2 other steering committee members.
 
 Nominations should be made and discussed in a [GitHub
-Discussion](https://github.com/ibis-project/governance/discussions).
+Issue](https://github.com/ibis-project/governance/issues).
 
 ## Decision-making process
 
 ### Location
 
 Major technical decisions should be made **in public** using [GitHub
-Discussions](https://github.com/ibis-project/ibis/discussions).
+Issues](https://github.com/ibis-project/ibis/issues).
+
+Announcements of proposed major technical decisions can also be sent to the
+[Zulip #general
+stream](https://ibis-project.zulipchat.com/#narrow/stream/405263-general) to
+help gather feedback.
 
 Decisions around governance itself should be discussed in
 [`ibis-project/governance`'s
-discussions](https://github.com/ibis-project/governance/discussions).
+issues](https://github.com/ibis-project/governance/issues) or in pull requests
+proposing changes to governance.
 
-When in doubt prefer https://github.com/ibis-project/ibis/discussions.
+When in doubt prefer https://github.com/ibis-project/ibis/issues.
 
 ### Seeking consensus
 
